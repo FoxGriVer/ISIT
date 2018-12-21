@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISIT1", "ISIT1\ISIT1.csproj", "{590D7D81-9C1F-46C9-9910-8C8F76516B1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{590D7D81-9C1F-46C9-9910-8C8F76516B1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{590D7D81-9C1F-46C9-9910-8C8F76516B1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{590D7D81-9C1F-46C9-9910-8C8F76516B1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{590D7D81-9C1F-46C9-9910-8C8F76516B1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C152E80D-7404-45E2-A817-1DE8BB131AC1}
+	EndGlobalSection
+EndGlobal
